@@ -222,4 +222,6 @@ gradle-app.setting
 
 application.yaml
 
+/src/main/generated
+
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,intellij+all,macos,windows,visualstudiocode
